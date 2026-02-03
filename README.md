@@ -1,5 +1,12 @@
 ## Hi there 👋 I am Shivam
 
+- 💻 Computer Engineering Student  
+- 🐍 Python | ☕ Java  
+- 📱 Exploring Android Development  
+- 🌱 Learning DSA & GitHub  
+- 🚀 Future Software Developer
+
+
 <!--
 **Shivam-111/Shivam-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

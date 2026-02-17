@@ -2,7 +2,7 @@
 
 - 💻 Computer Engineering Student  
 - 🐍 Python | ☕ Java  
-- 📱 Exploring Android Development  
+- 📱 Exploring FullStack Dev with AI  
 - 🌱 Learning DSA & GitHub  
 - 🚀 Future Software Developer
 

@@ -6,12 +6,13 @@
 - 🌱 Learning DSA & GitHub  
 - 🚀 Future Software Developer
 
-![Profile views](https://komarev.com/ghpvc/?username=Shivam-111&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=Shivam-111&color=green)
 
 🔗 Connect with Me
 [LinkedIn] linkedin.com/in/Shivam Dipte
 [YouTube] youtube.com/@Shivam Dipte
 [HackerRank] shivamdipte0
+
 
 🤝 Let's Collaborate
 - Open to learning, collaboration, and internships

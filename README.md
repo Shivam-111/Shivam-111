@@ -6,7 +6,7 @@
 - 🌱 Learning DSA & GitHub  
 - 🚀 Future Software Developer
 
-
+![Profile views](https://komarev.com/ghpvc/?username=Shivam-111&color=blue)
 <!--
 **Shivam-111/Shivam-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

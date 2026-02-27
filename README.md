@@ -7,6 +7,14 @@
 - 🚀 Future Software Developer
 
 ![Profile views](https://komarev.com/ghpvc/?username=Shivam-111&color=blue)
+
+🔗 Connect with Me
+[LinkedIn] linkedin.com/in/Shivam Dipte
+[YouTube] youtube.com/@Shivam Dipte
+[HackerRank] shivamdipte0
+
+🤝 Let's Collaborate
+- Open to learning, collaboration, and internships
 <!--
 **Shivam-111/Shivam-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

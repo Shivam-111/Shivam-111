@@ -12,13 +12,8 @@
 
 🔗 Connect with Me
 
-[LinkedIn] (https://www.linkedin.com/in/shivam-dipte-95a803345)
-
-[YouTube]  (youtube.com/@Shivam Dipte](https://youtube.com/@shivamdipte?si=MgWkc1QWK-FHyFh2)
-
-[HackerRank] shivamdipte0
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivam-dipte-95a803345)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@shivamdipte?si=MgWkc1QWK-FHyFh2)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/yourprofile)
 
 

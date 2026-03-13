@@ -25,7 +25,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivam-111&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-111&layout=compact&theme=radical)
 
 

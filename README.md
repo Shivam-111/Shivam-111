@@ -1,8 +1,8 @@
 ## Hi there 👋 I am Shivam
 
-💻 Computer Engineering Student | 🎨 Frontend Enthusiast <br>
-🐍 Python | 🍇 Java | ⚛️ React | 🚀 Aspiring Fullstack Developer <br>
-🌱 Learning Content Creation | 🧠 Exploring AI in Fullstack  
+💻 Computer Engineering Student | 🌱 Learning Attention Economy <br>
+🎨 Full-Stack Enthusiast | 🚀 Aspiring Fullstack Developer <br>
+🐍 Python | 🍇 Java | ⚛️ React | 🧠 Exploring AI in Fullstack  
 
 ![Profile views](https://komarev.com/ghpvc/?username=Shivam-111&color=green)
 

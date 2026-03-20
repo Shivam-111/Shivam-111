@@ -22,7 +22,9 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivam-111&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-111&layout=compact&theme=radical)
 
-[Snake animation](https://github.com/Shivam-111/Shivam-111/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Shivam-111/Shivam-111/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 🤝 Let's Collaborate

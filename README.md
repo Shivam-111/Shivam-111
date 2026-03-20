@@ -22,8 +22,12 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivam-111&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-111&layout=compact&theme=radical)
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/Shivam-111/Shivam-111/blob/output/snake.svg)
+![Keep Coding](https://img.shields.io/badge/Keep-Coding-blue?style=for-the-badge&logo=github)
+![Never Give Up](https://img.shields.io/badge/Never-Give%20Up-red?style=for-the-badge&logo=rocket)
+![Dream Big](https://img.shields.io/badge/Dream-Big-orange?style=for-the-badge&logo=star)
+![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-green?style=for-the-badge&logo=fire)
+![Build The Future](https://img.shields.io/badge/Build-The%20Future-purple?style=for-the-badge&logo=lightning)
+
 
 
 

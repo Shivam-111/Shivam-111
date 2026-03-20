@@ -1,11 +1,8 @@
 ## Hi there 👋 I am Shivam
 
-💻 Computer Engineering Student | 🚀 Aspiring Fullstack Developer  
-🐍 Python | 🍇 Java | ⚛️ React | 🎨 Frontend Enthusiast  
-🌱 Learning DSA & GitHub | 🧠 Exploring AI in Fullstack  
-
-
-- .github/workflows/snake.yml
+💻 Computer Engineering Student | 🎨 Frontend Enthusiast
+🐍 Python | 🍇 Java | ⚛️ React | 🚀 Aspiring Fullstack Developer
+🌱 Learning Content Creation | 🧠 Exploring AI in Fullstack  
 
 ![Profile views](https://komarev.com/ghpvc/?username=Shivam-111&color=green)
 

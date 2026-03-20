@@ -1,10 +1,9 @@
 ## Hi there 👋 I am Shivam
 
-- 💻 Computer Engineering Student  
-- 🐍 Python | ☕ Java  
-- 📱 Exploring FullStack Dev with AI  
-- 🌱 Learning DSA & GitHub  
-- 🚀 Future Software Developer
+💻 Computer Engineering Student | 🚀 Aspiring Fullstack Developer  
+🐍 Python | 🍇 Java | ⚛️ React | 🎨 Frontend Enthusiast  
+🌱 Learning DSA & GitHub | 🧠 Exploring AI in Fullstack  
+
 
 - .github/workflows/snake.yml
 

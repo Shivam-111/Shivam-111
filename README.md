@@ -18,15 +18,15 @@
 
 <table>
   <tr>
-    <td align="center" style="background-color:white; width:50%; vertical-align:top;">
+    <td align="center" style="background-color:white; width:40%; vertical-align:top;">
       <!-- Box 1 content -->
       <h3>Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamDipte&layout=compact&theme=default&bg_color=ffffff" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-111&layout=compact&theme=default&bg_color=ffffff" />
     </td>
-    <td align="center" style="background-color:white; width:50%; vertical-align:top;">
+    <td align="center" style="background-color:white; width:40%; vertical-align:top;">
       <!-- Box 2 content -->
       <h3>Contribution Stats</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamDipte&theme=default&background=ffffff" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-111&theme=default&background=ffffff" />
     </td>
   </tr>
 </table>

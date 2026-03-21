@@ -24,13 +24,12 @@
     <!-- Box 1 -->
     <td align="center" style="background-color:white; width:50%; vertical-align:top; border:1px solid #ddd; padding:10px;">
       <h3>Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamDipte&layout=compact&bg_color=ffffff&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-111&layout=compact&bg_color=ffffff&theme=default" />
     </td>
-
     <!-- Box 2 -->
     <td align="center" style="background-color:white; width:50%; vertical-align:top; border:1px solid #ddd; padding:10px;">
       <h3>Contribution Stats</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamDipte&background=ffffff&theme=default" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-111&background=ffffff&theme=default" />
     </td>
   </tr>
 </table>

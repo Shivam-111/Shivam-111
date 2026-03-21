@@ -16,6 +16,21 @@
 ### Languages and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 
+<table>
+  <tr>
+    <td align="center" style="background-color:white; width:50%; vertical-align:top;">
+      <!-- Box 1 content -->
+      <h3>Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamDipte&layout=compact&theme=default&bg_color=ffffff" />
+    </td>
+    <td align="center" style="background-color:white; width:50%; vertical-align:top;">
+      <!-- Box 2 content -->
+      <h3>Contribution Stats</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamDipte&theme=default&background=ffffff" />
+    </td>
+  </tr>
+</table>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-111&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivam-111&theme=radical)
 

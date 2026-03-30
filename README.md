@@ -18,12 +18,7 @@
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivam-111&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-111&layout=compact&theme=radical)
-
-
-| GitHub Streak | Top Languages |
-|---------------|---------------|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivam-111&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-111&layout=compact&theme=radical) |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-111&layout=compact&theme=dark)
 
 
 

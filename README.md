@@ -25,7 +25,7 @@
 <hr>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivam-111&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-111&layout=compact&theme=radical)
+
 
 
 
@@ -43,9 +43,9 @@
 
 
 🤝 Let's Collaborate
-</div>
 
 - Open to learning, collaboration, and internships
+</div>
 <!--
 **Shivam-111/Shivam-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

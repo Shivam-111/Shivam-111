@@ -24,9 +24,7 @@
 
 <hr>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivam-111&theme=radical)
-<br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-111&theme=radical" width="400"/>
 
 
 

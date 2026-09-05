@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I am Shivam
 
-💻 Computer Engineering Student | 🌱 Learning Attention Economy <br>
+💻 Computer Engineering Student <br>
 🎨 DevOps Enthusiast | 🚀 Aspiring Fullstack Developer <br>
 🐍 Python | 🍇 Java | ⚛️ React | 🧠 Exploring AI in Fullstack  
 
